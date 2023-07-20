@@ -1,4 +1,4 @@
-# Hiii !!! <img src="https://raw.githubusercontent.com/ricardolima87/ricardolima87/master/imgs/hi.gif" width="30px">
+# Hiii !!! <img src="https://raw.githubusercontent.com/ricardolima87/ricardolima87/master/imgs/wave.gif" width="30px">
 
 ![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardolima87&show_icons=true&hide_border=true)
 
